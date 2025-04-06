@@ -18,8 +18,6 @@ CAR_PRICE_PRED/
 ├── templates/
 │   └── index.html
 ├── CONFIG.py
-├── .gitignore
-├── requirements.txt
 └── README.md
 ```
 
