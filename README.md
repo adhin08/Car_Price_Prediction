@@ -61,6 +61,11 @@ Then open your browser and go to:
 - Algorithm: `RandomForestRegressor`
 - Trained model file: `Car_Pred_Model.pkl`
 
+## 📓 Model Walkthrough
+
+**Want to understand how the model was built?**  
+Check out the full exploratory analysis, preprocessing steps, and model training in the [`Car_Price_Prediction.ipynb`](./artifacts/Car_Price_Prediction.ipynb) notebook.
+
 ## ✨ Author
 
 **Adhin C**  
