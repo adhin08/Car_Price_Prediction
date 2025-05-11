@@ -58,7 +58,7 @@ Then open your browser and go to:
 
 ## 💡 ML Model
 
-- Algorithm: `RandomForestRegressor`
+- Algorithm:`XGBRegressor` (XGBoost)
 - Trained model file: `Car_Pred_Model.pkl`
 
 ## 📓 Model Walkthrough
